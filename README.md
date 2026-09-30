@@ -1,3 +1,5 @@
 # ProjectN1
 
-testando mais uma vez
+Project - N1
+- Projeto focado para aprendizado
+- Tema controle de Gastos do Mês
