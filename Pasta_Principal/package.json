@@ -1,0 +1,26 @@
+{
+  "name": "projectn1",
+  "version": "1.0.0",
+  "description": "Project - N1\r - Projeto focado para aprendizado\r - Tema controle de Gastos do Mês",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanluzlima-cmd/ProjectN1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ryanluzlima-cmd/ProjectN1/issues"
+  },
+  "homepage": "https://github.com/ryanluzlima-cmd/ProjectN1#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
